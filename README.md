@@ -1,3 +1,3 @@
 # Beatriz Auer Mariano
-### Mateus Maioli Giacomin
-> PLATER: plataforma de compartilhamento de receitas, despensa virtual e criação de lista de compras.
+
+> Tô só guardando umas fontes pro meu site ficar bonitinho.
